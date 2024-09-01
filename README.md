@@ -2,15 +2,15 @@
 
 This is an example of how to use QStash Workflow with Cloudflare Workers with Hono router. You can learn more in [Workflow documentation for Hono](https://upstash.com/docs/qstash/workflow/quickstarts/hono).
 
-[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/upstash/qstash-js/tree/main/examples/workflow/cloudflare-workers-hono)
+[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/upstash/qstash-workflow-example-cloudflare-workers-hono)
 
 ## Development
 
 > [!TIP]
 > You can use [the `bootstrap.sh` script](https://github.com/upstash/qstash-js/tree/main/examples/workflow) to run this example with a local tunnel.
-> 
+>
 > Simply set the environment variables as explained below and run the following command in the `qstash-js/examples/workflow` directory:
-> 
+>
 > ```
 > bash bootstrap.sh cloudflare-workers-hono
 > ```
